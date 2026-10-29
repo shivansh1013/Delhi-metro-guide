@@ -1,0 +1,317 @@
+{
+  "RED_Rithala to Dilshad Garden": {
+    "Dilshad Garden": {
+      "terminalStationId": "1",
+      "serviceId": "weekday",
+      "firstTrain": "05:28:28",
+      "lastTrain": "17:46:08",
+      "averageGapMinutes": 61.5
+    }
+  },
+  "YELLOW_Huda City Centre to Samaypur Badli": {
+    "Samaypur Badli": {
+      "terminalStationId": "36",
+      "serviceId": "weekday",
+      "firstTrain": "18:26:41",
+      "lastTrain": "23:39:21",
+      "averageGapMinutes": 5.3
+    }
+  },
+  "YELLOW_Samaypur Badli to Huda City Centre": {
+    "Huda City Centre": {
+      "terminalStationId": "71",
+      "serviceId": "weekday",
+      "firstTrain": "05:50:20",
+      "lastTrain": "23:15:40",
+      "averageGapMinutes": 5.3
+    }
+  },
+  "YELLOW_Vishwavidyalaya to Qutab Minar": {
+    "Qutab Minar": {
+      "terminalStationId": "62",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "23:28:33",
+      "averageGapMinutes": 4.5
+    }
+  },
+  "YELLOW_Qutab Minar  to Huda City Centre": {
+    "Huda City Centre": {
+      "terminalStationId": "71",
+      "serviceId": "weekday",
+      "firstTrain": "05:50:12",
+      "lastTrain": "23:58:12",
+      "averageGapMinutes": 4.6
+    }
+  },
+  "BLUE_Noida Electronic City to Dwarka Sector - 21": {
+    "Dwarka Sector - 21": {
+      "terminalStationId": "121",
+      "serviceId": "weekday",
+      "firstTrain": "05:45:20",
+      "lastTrain": "23:12:32",
+      "averageGapMinutes": 5.7
+    }
+  },
+  "BLUE_Vaishali to Dwarka Sector - 21": {
+    "Dwarka Sector - 21": {
+      "terminalStationId": "121",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "23:15:48",
+      "averageGapMinutes": 5.7
+    }
+  },
+  "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar": {
+    "Kirti Nagar": {
+      "terminalStationId": "100",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "22:47:20",
+      "averageGapMinutes": 9.5
+    }
+  },
+  "GREEN_Brigadier Hoshiyar Singh to Inderlok": {
+    "Inderlok": {
+      "terminalStationId": "13",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "22:37:20",
+      "averageGapMinutes": 9.5
+    }
+  },
+  "VIOLET_Badarpur Border to Kashmere Gate": {
+    "Kashmere Gate": {
+      "terminalStationId": "8",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "22:54:08",
+      "averageGapMinutes": 7.8
+    }
+  },
+  "YELLOW_Qutab Minar to Vishwavidyalaya": {
+    "Vishwavidyalaya": {
+      "terminalStationId": "44",
+      "serviceId": "weekday",
+      "firstTrain": "05:20:45",
+      "lastTrain": "23:59:20",
+      "averageGapMinutes": 4.5
+    }
+  },
+  "VIOLET_Raja Nahar Singh to Kashmere Gate": {
+    "Kashmere Gate": {
+      "terminalStationId": "8",
+      "serviceId": "weekday",
+      "firstTrain": "05:40:20",
+      "lastTrain": "22:54:20",
+      "averageGapMinutes": 7.8
+    }
+  },
+  "PINK_Shiv Vihar to Majlis Park": {
+    "Majlis Park": {
+      "terminalStationId": "173",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "23:14:59",
+      "averageGapMinutes": 5.7
+    }
+  },
+  "MAGENTA_Botanical Garden to Janak Puri West": {
+    "Janak Puri West": {
+      "terminalStationId": "108",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "23:06:00",
+      "averageGapMinutes": 5.9
+    }
+  },
+  "GRAY_Dhansa Bus Stand to Dwarka": {
+    "Dwarka": {
+      "terminalStationId": "113",
+      "serviceId": "weekday",
+      "firstTrain": "05:55:20",
+      "lastTrain": "22:55:20",
+      "averageGapMinutes": 13.4
+    }
+  },
+  "ORANGE/AIRPORT_New Delhi to Dwarka Sector - 21": {
+    "Dwarka Sector - 21": {
+      "terminalStationId": "121",
+      "serviceId": "weekday",
+      "firstTrain": "04:45:20",
+      "lastTrain": "23:35:20",
+      "averageGapMinutes": 10.0
+    }
+  },
+  "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)": {
+    "Sector 55-56 (Rapid Metro)": {
+      "terminalStationId": "172",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "21:58:50",
+      "averageGapMinutes": 5.4
+    }
+  },
+  "AQUA_Noida Sector 142 to Noida Sector 51": {
+    "Noida Sector 51": {
+      "terminalStationId": "500",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "21:52:50",
+      "averageGapMinutes": 8.6
+    }
+  },
+  "AQUA_Depot Station to Noida Sector 142": {
+    "Noida Sector 142": {
+      "terminalStationId": "508",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "21:56:35",
+      "averageGapMinutes": 4.3
+    }
+  },
+  "YELLOW_Huda City Centre to Qutab Minar": {
+    "Qutab Minar": {
+      "terminalStationId": "62",
+      "serviceId": "weekday",
+      "firstTrain": "05:52:45",
+      "lastTrain": "23:46:25",
+      "averageGapMinutes": 4.6
+    }
+  },
+  "BLUE_Dwarka Sector - 21 to Noida Electronic City": {
+    "Noida Electronic City": {
+      "terminalStationId": "238",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "22:46:28",
+      "averageGapMinutes": 5.7
+    }
+  },
+  "BLUE_Dwarka Sector - 21 to Vaishali": {
+    "Vaishali": {
+      "terminalStationId": "72",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "23:04:04",
+      "averageGapMinutes": 5.7
+    }
+  },
+  "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh": {
+    "Brigadier Hoshiyar Singh": {
+      "terminalStationId": "202",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "22:57:20",
+      "averageGapMinutes": 9.5
+    }
+  },
+  "RED_Rithala to Shaheed Sthal (New Bus Adda)": {
+    "Shaheed Sthal (New Bus Adda)": {
+      "terminalStationId": "225",
+      "serviceId": "weekday",
+      "firstTrain": "05:25:22",
+      "lastTrain": "23:03:16",
+      "averageGapMinutes": 6.7
+    }
+  },
+  "GREEN_Inderlok to Brigadier Hoshiyar Singh": {
+    "Brigadier Hoshiyar Singh": {
+      "terminalStationId": "202",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "22:57:20",
+      "averageGapMinutes": 9.5
+    }
+  },
+  "VIOLET_Kashmere Gate to Badarpur Border": {
+    "Badarpur Border": {
+      "terminalStationId": "138",
+      "serviceId": "weekday",
+      "firstTrain": "06:03:20",
+      "lastTrain": "23:01:32",
+      "averageGapMinutes": 7.8
+    }
+  },
+  "VIOLET_Kashmere Gate to Raja Nahar Singh": {
+    "Raja Nahar Singh": {
+      "terminalStationId": "220",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "23:21:08",
+      "averageGapMinutes": 7.8
+    }
+  },
+  "PINK_Majlis Park to Shiv Vihar": {
+    "Shiv Vihar": {
+      "terminalStationId": "218",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "23:14:59",
+      "averageGapMinutes": 5.7
+    }
+  },
+  "MAGENTA_Janak Puri West to Botanical Garden": {
+    "Botanical Garden": {
+      "terminalStationId": "81",
+      "serviceId": "weekday",
+      "firstTrain": "05:40:20",
+      "lastTrain": "23:06:15",
+      "averageGapMinutes": 5.9
+    }
+  },
+  "GRAY_Dwarka to Dhansa Bus Stand": {
+    "Dhansa Bus Stand": {
+      "terminalStationId": "241",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "22:48:20",
+      "averageGapMinutes": 13.4
+    }
+  },
+  "ORANGE/AIRPORT_Dwarka Sector - 21 to New Delhi": {
+    "New Delhi": {
+      "terminalStationId": "49",
+      "serviceId": "weekday",
+      "firstTrain": "04:45:20",
+      "lastTrain": "23:15:20",
+      "averageGapMinutes": 10.0
+    }
+  },
+  "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)": {
+    "Phase 3 (Rapid Metro)": {
+      "terminalStationId": "153",
+      "serviceId": "weekday",
+      "firstTrain": "06:19:51",
+      "lastTrain": "23:54:21",
+      "averageGapMinutes": 5.4
+    }
+  },
+  "AQUA_Noida Sector 51 to Noida Sector 142": {
+    "Noida Sector 142": {
+      "terminalStationId": "508",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "21:52:50",
+      "averageGapMinutes": 8.6
+    }
+  },
+  "AQUA_Noida Sector 142 to Depot Station": {
+    "Depot Station": {
+      "terminalStationId": "520",
+      "serviceId": "weekday",
+      "firstTrain": "06:00:20",
+      "lastTrain": "21:56:35",
+      "averageGapMinutes": 4.3
+    }
+  },
+  "RED_Dilshad Garden  to Rithala": {
+    "Rithala": {
+      "terminalStationId": "21",
+      "serviceId": "weekday",
+      "firstTrain": "05:30:22",
+      "lastTrain": "23:07:18",
+      "averageGapMinutes": 6.7
+    }
+  }
+}

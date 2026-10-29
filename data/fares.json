@@ -1,0 +1,12 @@
+{
+  "effectiveDate": "2025-08-25",
+  "currency": "INR",
+  "slabs": [
+    { "minKm": 0, "maxKm": 2, "monSat": 11, "sunHoliday": 11 },
+    { "minKm": 2, "maxKm": 5, "monSat": 21, "sunHoliday": 11 },
+    { "minKm": 5, "maxKm": 12, "monSat": 32, "sunHoliday": 21 },
+    { "minKm": 12, "maxKm": 21, "monSat": 43, "sunHoliday": 32 },
+    { "minKm": 21, "maxKm": 32, "monSat": 54, "sunHoliday": 43 },
+    { "minKm": 32, "maxKm": null, "monSat": 64, "sunHoliday": 54 }
+  ]
+}

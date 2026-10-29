@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "1",
+    "name": "Dilshad Garden",
+    "lat": 28.675991,
+    "lng": 77.321495,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Jhilmil",
+    "lat": 28.675648,
+    "lng": 77.312393,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Mansrover park",
+    "lat": 28.675352,
+    "lng": 77.301178,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Shahdara",
+    "lat": 28.673531,
+    "lng": 77.28727,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Welcome",
+    "lat": 28.671986,
+    "lng": 77.277931,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "PINK_Shiv Vihar to Majlis Park",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "PINK_Majlis Park to Shiv Vihar",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Seelam Pur",
+    "lat": 28.670324,
+    "lng": 77.267311,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Shastri Park",
+    "lat": 28.668451,
+    "lng": 77.250404,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Kashmere Gate",
+    "lat": 28.667879,
+    "lng": 77.228012,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "YELLOW_Qutab Minar to Vishwavidyalaya",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Tis Hazari",
+    "lat": 28.667137,
+    "lng": 77.216721,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Pul Bangash",
+    "lat": 28.66571,
+    "lng": 77.206329,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Pratap Nagar",
+    "lat": 28.666632,
+    "lng": 77.196869,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Shastri Nagar",
+    "lat": 28.670135,
+    "lng": 77.181679,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Inderlok",
+    "lat": 28.673452,
+    "lng": 77.170235,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Kanhaiya Nagar",
+    "lat": 28.682386,
+    "lng": 77.162552,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Keshav Puram",
+    "lat": 28.688944,
+    "lng": 77.161774,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Netaji Subash Place",
+    "lat": 28.695637,
+    "lng": 77.152428,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "PINK_Shiv Vihar to Majlis Park",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "PINK_Majlis Park to Shiv Vihar",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Kohat Enclave",
+    "lat": 28.697943,
+    "lng": 77.140465,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Pitampura",
+    "lat": 28.70318,
+    "lng": 77.132355,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Rohini East",
+    "lat": 28.707941,
+    "lng": 77.125732,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Rohini West",
+    "lat": 28.715008,
+    "lng": 77.115746,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Rithala",
+    "lat": 28.720821,
+    "lng": 77.105042,
+    "lines": [
+      "RED_Rithala to Dilshad Garden",
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)",
+      "RED_Dilshad Garden  to Rithala"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Mundka",
+    "lat": 28.682411,
+    "lng": 77.028282,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Rajdhani Park",
+    "lat": 28.682217,
+    "lng": 77.043869,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Nangloi Railway Station",
+    "lat": 28.682091,
+    "lng": 77.05619,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Nangloi",
+    "lat": 28.682356,
+    "lng": 77.064728,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Maharaja Surajmal Stadium",
+    "lat": 28.681833,
+    "lng": 77.073891,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Udyog Nagar",
+    "lat": 28.681047,
+    "lng": 77.078674,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Peera Garhi",
+    "lat": 28.67972,
+    "lng": 77.092491,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Paschim Vihar (West)",
+    "lat": 28.678539,
+    "lng": 77.102119,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Paschim Vihar (East)",
+    "lat": 28.677305,
+    "lng": 77.112251,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Madipur",
+    "lat": 28.676418,
+    "lng": 77.117294,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Shivaji Park",
+    "lat": 28.674965,
+    "lng": 77.128258,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Punjabi Bagh",
+    "lat": 28.672943,
+    "lng": 77.146011,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Ashok Park Main",
+    "lat": 28.671572,
+    "lng": 77.155159,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Satguru Ram Singh Marg",
+    "lat": 28.662188,
+    "lng": 77.157829,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Samaypur Badli",
+    "lat": 28.742872,
+    "lng": 77.146545,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Rohini Sector 18-19",
+    "lat": 28.740192,
+    "lng": 77.135574,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Haiderpur Badli Mor",
+    "lat": 28.718657,
+    "lng": 77.149956,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Jahangirpuri",
+    "lat": 28.72818,
+    "lng": 77.16124,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Adarsh Nagar",
+    "lat": 28.696377,
+    "lng": 77.208809,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Azadpur",
+    "lat": 28.707287,
+    "lng": 77.179863,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Model Town",
+    "lat": 28.702833,
+    "lng": 77.193764,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Guru Tegh Bahadur Nagar",
+    "lat": 28.698195,
+    "lng": 77.206985,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Vishwavidyalaya",
+    "lat": 28.694765,
+    "lng": 77.212418,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Vidhan Sabha",
+    "lat": 28.687845,
+    "lng": 77.221626,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Civil Lines",
+    "lat": 28.676945,
+    "lng": 77.224953,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Chandni Chowk",
+    "lat": 28.656443,
+    "lng": 77.229218,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Chawri Bazar",
+    "lat": 28.649635,
+    "lng": 77.22628,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "New Delhi",
+    "lat": 28.642944,
+    "lng": 77.222351,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya",
+      "ORANGE/AIRPORT_New Delhi to Dwarka Sector - 21",
+      "ORANGE/AIRPORT_Dwarka Sector - 21 to New Delhi"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Rajiv Chowk",
+    "lat": 28.632896,
+    "lng": 77.219574,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "YELLOW_Qutab Minar to Vishwavidyalaya",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Patel Chowk",
+    "lat": 28.622967,
+    "lng": 77.212288,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Central Secretariat",
+    "lat": 28.614973,
+    "lng": 77.212029,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "YELLOW_Qutab Minar to Vishwavidyalaya",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Udyog Bhawan",
+    "lat": 28.611525,
+    "lng": 77.210052,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Lok Kalyan Marg",
+    "lat": 28.597519,
+    "lng": 77.209122,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Jorbagh",
+    "lat": 28.587234,
+    "lng": 77.212662,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Dilli Haat - INA",
+    "lat": 28.575195,
+    "lng": 77.209473,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya",
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "AIIMS",
+    "lat": 28.568199,
+    "lng": 77.207947,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Green Park",
+    "lat": 28.559853,
+    "lng": 77.206902,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Hauz Khas",
+    "lat": 28.543346,
+    "lng": 77.206673,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya",
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Malviya Nagar",
+    "lat": 28.52817,
+    "lng": 77.205612,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Saket",
+    "lat": 28.520638,
+    "lng": 77.199379,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar to Vishwavidyalaya"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Qutab Minar",
+    "lat": 28.512714,
+    "lng": 77.185791,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Vishwavidyalaya to Qutab Minar",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Qutab Minar to Vishwavidyalaya",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Chhattarpur",
+    "lat": 28.506584,
+    "lng": 77.174866,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Sultanpur",
+    "lat": 28.499214,
+    "lng": 77.161362,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Ghitorni",
+    "lat": 28.49383,
+    "lng": 77.149071,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Arjan Garh",
+    "lat": 28.48082,
+    "lng": 77.12587,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Gurudronacharya",
+    "lat": 28.482075,
+    "lng": 77.102219,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Sikanderpur",
+    "lat": 28.481352,
+    "lng": 77.092995,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "YELLOW_Huda City Centre to Qutab Minar",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "MG Road",
+    "lat": 28.47967,
+    "lng": 77.080444,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "IFFCO Chowk",
+    "lat": 28.472137,
+    "lng": 77.072502,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Huda City Centre",
+    "lat": 28.459118,
+    "lng": 77.072586,
+    "lines": [
+      "YELLOW_Huda City Centre to Samaypur Badli",
+      "YELLOW_Samaypur Badli to Huda City Centre",
+      "YELLOW_Qutab Minar  to Huda City Centre",
+      "YELLOW_Huda City Centre to Qutab Minar"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Vaishali",
+    "lat": 28.650059,
+    "lng": 77.337608,
+    "lines": [
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Kaushambi",
+    "lat": 28.645428,
+    "lng": 77.322273,
+    "lines": [
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Anand Vihar",
+    "lat": 28.647005,
+    "lng": 77.316185,
+    "lines": [
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "PINK_Shiv Vihar to Majlis Park",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Karkarduma",
+    "lat": 28.648653,
+    "lng": 77.304581,
+    "lines": [
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "PINK_Shiv Vihar to Majlis Park",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Preet Vihar",
+    "lat": 28.641352,
+    "lng": 77.295158,
+    "lines": [
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Nirman Vihar",
+    "lat": 28.637049,
+    "lng": 77.287872,
+    "lines": [
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Laxmi Nagar",
+    "lat": 28.629843,
+    "lng": 77.276428,
+    "lines": [
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Noida City Centre",
+    "lat": 28.574593,
+    "lng": 77.356117,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Golf Course",
+    "lat": 28.566917,
+    "lng": 77.345726,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Botanical Garden",
+    "lat": 28.564198,
+    "lng": 77.334656,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Noida Sec -18",
+    "lat": 28.570843,
+    "lng": 77.326088,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Noida Sec -16",
+    "lat": 28.577921,
+    "lng": 77.318115,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Noida Sec -15",
+    "lat": 28.585018,
+    "lng": 77.311584,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "New Ashok Nagar",
+    "lat": 28.58847,
+    "lng": 77.30146,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Mayur Vihar Ext",
+    "lat": 28.594124,
+    "lng": 77.294495,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Mayur Vihar-I",
+    "lat": 28.604425,
+    "lng": 77.289421,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "PINK_Shiv Vihar to Majlis Park",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Akshardham",
+    "lat": 28.618364,
+    "lng": 77.279816,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Yamuna Bank",
+    "lat": 28.623178,
+    "lng": 77.267937,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Indraprastha",
+    "lat": 28.620272,
+    "lng": 77.250076,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Supreme Court",
+    "lat": 28.623438,
+    "lng": 77.2425,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Mandi House",
+    "lat": 28.625816,
+    "lng": 77.234726,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Barakhamba",
+    "lat": 28.629662,
+    "lng": 77.224876,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "RK Ashram Marg",
+    "lat": 28.639217,
+    "lng": 77.206291,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Jhandewalan",
+    "lat": 28.644312,
+    "lng": 77.199791,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Karol Bagh",
+    "lat": 28.643925,
+    "lng": 77.188416,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Rajendra Place",
+    "lat": 28.64241,
+    "lng": 77.191833,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Patel Nagar",
+    "lat": 28.645037,
+    "lng": 77.167046,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Shadipur",
+    "lat": 28.65143,
+    "lng": 77.156021,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Kirti Nagar",
+    "lat": 28.655773,
+    "lng": 77.148499,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Moti Nagar",
+    "lat": 28.657803,
+    "lng": 77.140488,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Ramesh Nagar",
+    "lat": 28.652809,
+    "lng": 77.131462,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Rajouri Garden",
+    "lat": 28.649157,
+    "lng": 77.122749,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "PINK_Shiv Vihar to Majlis Park",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Tagore Garden",
+    "lat": 28.643795,
+    "lng": 77.112747,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Subash Nagar",
+    "lat": 28.640381,
+    "lng": 77.10273,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Tilak Nagar",
+    "lat": 28.636568,
+    "lng": 77.096336,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Janak Puri East",
+    "lat": 28.633121,
+    "lng": 77.086578,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Janak Puri West",
+    "lat": 28.629637,
+    "lng": 77.077866,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Uttam Nagar East",
+    "lat": 28.624643,
+    "lng": 77.063126,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Uttam Nagar West",
+    "lat": 28.621672,
+    "lng": 77.055664,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Nawada",
+    "lat": 28.620222,
+    "lng": 77.044991,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Dwarka Mor",
+    "lat": 28.619366,
+    "lng": 77.033188,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Dwarka",
+    "lat": 28.614899,
+    "lng": 77.022629,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "GRAY_Dhansa Bus Stand to Dwarka",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "GRAY_Dwarka to Dhansa Bus Stand"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Dwarka Sector - 14",
+    "lat": 28.602232,
+    "lng": 77.02594,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Dwarka Sector - 13",
+    "lat": 28.59705,
+    "lng": 77.033043,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Dwarka Sector - 12",
+    "lat": 28.592234,
+    "lng": 77.040558,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Dwarka Sector - 11",
+    "lat": 28.58642,
+    "lng": 77.049255,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Dwarka Sector - 10",
+    "lat": 28.581108,
+    "lng": 77.05719,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Dwarka Sector - 9",
+    "lat": 28.574284,
+    "lng": 77.065086,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Dwarka Sector - 8",
+    "lat": 28.565706,
+    "lng": 77.064896,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali"
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Dwarka Sector - 21",
+    "lat": 28.552322,
+    "lng": 77.056198,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Vaishali to Dwarka Sector - 21",
+      "ORANGE/AIRPORT_New Delhi to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City",
+      "BLUE_Dwarka Sector - 21 to Vaishali",
+      "ORANGE/AIRPORT_Dwarka Sector - 21 to New Delhi"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "ITO",
+    "lat": 28.627205,
+    "lng": 77.240952,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Janpath",
+    "lat": 28.627817,
+    "lng": 77.218956,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Khan Market",
+    "lat": 28.602682,
+    "lng": 77.228096,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Jawahar Lal Nehru Stadium",
+    "lat": 28.590475,
+    "lng": 77.23307,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Jangpura",
+    "lat": 28.583231,
+    "lng": 77.239662,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Lajpat Nagar",
+    "lat": 28.570705,
+    "lng": 77.233124,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "PINK_Shiv Vihar to Majlis Park",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Moolchand",
+    "lat": 28.564629,
+    "lng": 77.234222,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Kailash Colony",
+    "lat": 28.554617,
+    "lng": 77.239738,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Nehru Place",
+    "lat": 28.551134,
+    "lng": 77.251511,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Kalkaji Mandir",
+    "lat": 28.549532,
+    "lng": 77.258789,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Govind Puri",
+    "lat": 28.544413,
+    "lng": 77.264259,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Harkesh Nagar Okhla",
+    "lat": 28.543194,
+    "lng": 77.275955,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Jasola-Apollo",
+    "lat": 28.538084,
+    "lng": 77.285538,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Sarita Vihar",
+    "lat": 28.528622,
+    "lng": 77.288345,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Mohan Estate",
+    "lat": 28.51959,
+    "lng": 77.294518,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Tughlakabad Station",
+    "lat": 28.502232,
+    "lng": 77.29866,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Badarpur Border",
+    "lat": 28.4932,
+    "lng": 77.30085,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Sarai",
+    "lat": 28.47794,
+    "lng": 77.304932,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "140",
+    "name": "NHPC Chowk",
+    "lat": 28.462435,
+    "lng": 77.305252,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Mewala Maharajpur",
+    "lat": 28.4485,
+    "lng": 77.308098,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Sector-28",
+    "lat": 28.440586,
+    "lng": 77.305992,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Badkal Mor",
+    "lat": 28.422707,
+    "lng": 77.310234,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Old Faridabad",
+    "lat": 28.412172,
+    "lng": 77.311272,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Neelam Chowk Ajronda",
+    "lat": 28.400707,
+    "lng": 77.309105,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Bata Chowk",
+    "lat": 28.386362,
+    "lng": 77.298782,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Escorts Mujesar",
+    "lat": 28.370199,
+    "lng": 77.315002,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Sikanderpur (Rapid Metro)",
+    "lat": 28.480833,
+    "lng": 77.094246,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Phase 2 (Rapid Metro)",
+    "lat": 28.488371,
+    "lng": 77.092865,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Belvedere Towers (Rapid Metro)",
+    "lat": 28.492065,
+    "lng": 77.088142,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Cyber City (Rapid Metro)",
+    "lat": 28.498478,
+    "lng": 77.089088,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Moulsari Avenue (Rapid Metro)",
+    "lat": 28.501572,
+    "lng": 77.094536,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Phase 3 (Rapid Metro)",
+    "lat": 28.494329,
+    "lng": 77.093552,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "154",
+    "name": "IGI Airport",
+    "lat": 28.554869,
+    "lng": 77.087921,
+    "lines": [
+      "ORANGE/AIRPORT_New Delhi to Dwarka Sector - 21",
+      "ORANGE/AIRPORT_Dwarka Sector - 21 to New Delhi"
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Delhi Aerocity",
+    "lat": 28.548792,
+    "lng": 77.120743,
+    "lines": [
+      "ORANGE/AIRPORT_New Delhi to Dwarka Sector - 21",
+      "ORANGE/AIRPORT_Dwarka Sector - 21 to New Delhi"
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Dhaula Kuan",
+    "lat": 28.591776,
+    "lng": 77.161545,
+    "lines": [
+      "ORANGE/AIRPORT_New Delhi to Dwarka Sector - 21",
+      "ORANGE/AIRPORT_Dwarka Sector - 21 to New Delhi"
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Shivaji Stadium",
+    "lat": 28.629007,
+    "lng": 77.209213,
+    "lines": [
+      "ORANGE/AIRPORT_New Delhi to Dwarka Sector - 21",
+      "ORANGE/AIRPORT_Dwarka Sector - 21 to New Delhi"
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Delhi Gate",
+    "lat": 28.640488,
+    "lng": 77.240303,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "159",
+    "name": "Jama Masjid",
+    "lat": 28.650393,
+    "lng": 77.237556,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "160",
+    "name": "Lal Quila",
+    "lat": 28.657576,
+    "lng": 77.236595,
+    "lines": [
+      "VIOLET_Badarpur Border to Kashmere Gate",
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Badarpur Border",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Okhla Bird Sanctuary",
+    "lat": 28.552816,
+    "lng": 77.321564,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "162",
+    "name": "Kalindi Kunj",
+    "lat": 28.542835,
+    "lng": 77.310173,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Jasola Vihar Shaheen Bagh",
+    "lat": 28.546005,
+    "lng": 77.296715,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "164",
+    "name": "Okhla Vihar",
+    "lat": 28.561255,
+    "lng": 77.291916,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "165",
+    "name": "Jamia Millia Islamia",
+    "lat": 28.562944,
+    "lng": 77.286209,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Sukhdev Vihar",
+    "lat": 28.559887,
+    "lng": 77.275116,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Okhla NSIC",
+    "lat": 28.554575,
+    "lng": 77.26487,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "168",
+    "name": "Phase-I (Rapid Metro)",
+    "lat": 28.471981,
+    "lng": 77.094009,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "169",
+    "name": "Sector 42-43 (Rapid Metro)",
+    "lat": 28.458475,
+    "lng": 77.09684,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "170",
+    "name": "Sector 53-54 (Rapid Metro)",
+    "lat": 28.447533,
+    "lng": 77.100487,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "171",
+    "name": "Sector 54 Chowk (Rapid Metro)",
+    "lat": 28.434212,
+    "lng": 77.104782,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "172",
+    "name": "Sector 55-56 (Rapid Metro)",
+    "lat": 28.424587,
+    "lng": 77.105042,
+    "lines": [
+      "RAPID_Phase 3 (Rapid Metro) to Sector 55-56 (Rapid Metro)",
+      "RAPID_Sector 55-56 (Rapid Metro) to Phase 3 (Rapid Metro)"
+    ]
+  },
+  {
+    "id": "173",
+    "name": "Majlis Park",
+    "lat": 28.724157,
+    "lng": 77.182068,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "174",
+    "name": "Shalimar Bagh",
+    "lat": 28.70182,
+    "lng": 77.165184,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "175",
+    "name": "Shakurpur",
+    "lat": 28.685781,
+    "lng": 77.149651,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "176",
+    "name": "Punjabi Bagh West",
+    "lat": 28.672747,
+    "lng": 77.139183,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "177",
+    "name": "ESI Basai Darapur",
+    "lat": 28.658159,
+    "lng": 77.127319,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "178",
+    "name": "Mayapuri",
+    "lat": 28.637098,
+    "lng": 77.129738,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "179",
+    "name": "Naraina Vihar",
+    "lat": 28.624121,
+    "lng": 77.136482,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "180",
+    "name": "Delhi Cantt.",
+    "lat": 28.608641,
+    "lng": 77.140373,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "181",
+    "name": "Durgabai Deshmukh South Campus",
+    "lat": 28.589376,
+    "lng": 77.169518,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "182",
+    "name": "Nehru Enclave",
+    "lat": 28.545856,
+    "lng": 77.25116,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "183",
+    "name": "Greater Kailash",
+    "lat": 28.541836,
+    "lng": 77.238243,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "184",
+    "name": "Chirag Delhi",
+    "lat": 28.541229,
+    "lng": 77.229385,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "185",
+    "name": "Panchsheel Park",
+    "lat": 28.542339,
+    "lng": 77.220512,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "186",
+    "name": "IIT",
+    "lat": 28.547194,
+    "lng": 77.193832,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "187",
+    "name": "RK Puram",
+    "lat": 28.550486,
+    "lng": 77.184952,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "188",
+    "name": "Munirka",
+    "lat": 28.557821,
+    "lng": 77.174026,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "189",
+    "name": "Vasant Vihar",
+    "lat": 28.558378,
+    "lng": 77.160774,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "190",
+    "name": "Shankar Vihar",
+    "lat": 28.560787,
+    "lng": 77.140442,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "191",
+    "name": "Terminal 1- IGI Airport",
+    "lat": 28.565275,
+    "lng": 77.122391,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "192",
+    "name": "Sadar Bazar Contonment",
+    "lat": 28.577108,
+    "lng": 77.111305,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "193",
+    "name": "Palam",
+    "lat": 28.589067,
+    "lng": 77.082954,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "194",
+    "name": "Dashrath Puri",
+    "lat": 28.602333,
+    "lng": 77.08255,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "195",
+    "name": "Dabri Mor - Janakpuri South",
+    "lat": 28.615904,
+    "lng": 77.085258,
+    "lines": [
+      "MAGENTA_Botanical Garden to Janak Puri West",
+      "MAGENTA_Janak Puri West to Botanical Garden"
+    ]
+  },
+  {
+    "id": "196",
+    "name": "Mundka Industrial Area (M.I.A)",
+    "lat": 28.68396,
+    "lng": 76.989822,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "197",
+    "name": "Ghevra Metro station",
+    "lat": 28.685289,
+    "lng": 76.993584,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "198",
+    "name": "Tikri Kalan",
+    "lat": 28.686899,
+    "lng": 76.977249,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "199",
+    "name": "Tikri Border",
+    "lat": 28.687876,
+    "lng": 76.963783,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "200",
+    "name": "Pandit Shree Ram Sharma",
+    "lat": 28.689213,
+    "lng": 76.951088,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "201",
+    "name": "Bahadurgarh City",
+    "lat": 28.690784,
+    "lng": 76.935265,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "202",
+    "name": "Brigadier Hoshiyar Singh",
+    "lat": 28.697428,
+    "lng": 76.919128,
+    "lines": [
+      "GREEN_Brigadier Hoshiyar Singh to Kirti Nagar",
+      "GREEN_Brigadier Hoshiyar Singh to Inderlok",
+      "GREEN_Kirti Nagar to Brigadier Hoshiyar Singh",
+      "GREEN_Inderlok to Brigadier Hoshiyar Singh"
+    ]
+  },
+  {
+    "id": "203",
+    "name": "Sir Vishweshwaraiah Moti Bagh",
+    "lat": 28.578529,
+    "lng": 77.175713,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "204",
+    "name": "Bhikaji Cama Place",
+    "lat": 28.570208,
+    "lng": 77.187866,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "205",
+    "name": "Sarojini Nagar",
+    "lat": 28.570208,
+    "lng": 77.187866,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "206",
+    "name": "South Extension",
+    "lat": 28.5686,
+    "lng": 77.219818,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "207",
+    "name": "Trilokpuri Sanjay Lake",
+    "lat": 28.613506,
+    "lng": 77.308678,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "208",
+    "name": "East Vinod Nagar - Mayur Vihar-II",
+    "lat": 28.620052,
+    "lng": 77.305588,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "209",
+    "name": "Mandawali - West Vinod Nagar",
+    "lat": 28.624861,
+    "lng": 77.304146,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "210",
+    "name": "IP Extension",
+    "lat": 28.631599,
+    "lng": 77.310898,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "211",
+    "name": "Karkarduma Court",
+    "lat": 28.649473,
+    "lng": 77.295341,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "212",
+    "name": "Krishna Nagar",
+    "lat": 28.65782,
+    "lng": 77.290306,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "213",
+    "name": "East Azad Nagar",
+    "lat": 28.665043,
+    "lng": 77.284599,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "214",
+    "name": "Jafrabad",
+    "lat": 28.682943,
+    "lng": 77.27507,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "215",
+    "name": "Maujpur - Babarpur",
+    "lat": 28.692057,
+    "lng": 77.280922,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "216",
+    "name": "Gokulpuri",
+    "lat": 28.703009,
+    "lng": 77.286301,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "217",
+    "name": "Johri Enclave",
+    "lat": 28.713297,
+    "lng": 77.290154,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "218",
+    "name": "Shiv Vihar",
+    "lat": 28.721863,
+    "lng": 77.289635,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "219",
+    "name": "Sant Surdas (Sihi)",
+    "lat": 28.354666,
+    "lng": 77.316261,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "220",
+    "name": "Raja Nahar Singh",
+    "lat": 28.339899,
+    "lng": 77.331657,
+    "lines": [
+      "VIOLET_Raja Nahar Singh to Kashmere Gate",
+      "VIOLET_Kashmere Gate to Raja Nahar Singh"
+    ]
+  },
+  {
+    "id": "221",
+    "name": "Vinobapuri",
+    "lat": 28.566179,
+    "lng": 77.249367,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "222",
+    "name": "Ashram",
+    "lat": 28.576065,
+    "lng": 77.25753,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "223",
+    "name": "Sarai Kale Khan - Nizamuddin",
+    "lat": 28.5889,
+    "lng": 77.253189,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "224",
+    "name": "Mayur Vihar Pocket 1",
+    "lat": 28.606598,
+    "lng": 77.296326,
+    "lines": [
+      "PINK_Shiv Vihar to Majlis Park",
+      "PINK_Majlis Park to Shiv Vihar"
+    ]
+  },
+  {
+    "id": "225",
+    "name": "Shaheed Sthal (New Bus Adda)",
+    "lat": 28.670177,
+    "lng": 77.416031,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "226",
+    "name": "Hindon River",
+    "lat": 28.673508,
+    "lng": 77.40654,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "227",
+    "name": "Arthala",
+    "lat": 28.6772,
+    "lng": 77.391876,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "228",
+    "name": "Mohan Nagar",
+    "lat": 28.67856,
+    "lng": 77.384209,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "229",
+    "name": "Shyam Park",
+    "lat": 28.678217,
+    "lng": 77.370911,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "230",
+    "name": "Major Mohit Sharma Rajender Nagar",
+    "lat": 28.678095,
+    "lng": 77.359528,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "231",
+    "name": "Raj Bagh",
+    "lat": 28.677122,
+    "lng": 77.346466,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "232",
+    "name": "Shaheed Nagar",
+    "lat": 28.676615,
+    "lng": 77.333809,
+    "lines": [
+      "RED_Shaheed Sthal (New Bus Adda) to Rithala",
+      "RED_Rithala to Shaheed Sthal (New Bus Adda)"
+    ]
+  },
+  {
+    "id": "233",
+    "name": "Noida Sec-34",
+    "lat": 28.580229,
+    "lng": 77.363518,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "234",
+    "name": "Noida Sec-52",
+    "lat": 28.586849,
+    "lng": 77.372749,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "235",
+    "name": "Noida Sec-61",
+    "lat": 28.597677,
+    "lng": 77.372368,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "236",
+    "name": "Noida Sec-59",
+    "lat": 28.609089,
+    "lng": 77.372955,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "237",
+    "name": "Noida Sec-62",
+    "lat": 28.616991,
+    "lng": 77.373611,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "238",
+    "name": "Noida Electronic City",
+    "lat": 28.628685,
+    "lng": 77.375229,
+    "lines": [
+      "BLUE_Noida Electronic City to Dwarka Sector - 21",
+      "BLUE_Dwarka Sector - 21 to Noida Electronic City"
+    ]
+  },
+  {
+    "id": "239",
+    "name": "Nangli",
+    "lat": 28.61722,
+    "lng": 77.010345,
+    "lines": [
+      "GRAY_Dhansa Bus Stand to Dwarka",
+      "GRAY_Dwarka to Dhansa Bus Stand"
+    ]
+  },
+  {
+    "id": "240",
+    "name": "Najafgarh",
+    "lat": 28.613316,
+    "lng": 76.986259,
+    "lines": [
+      "GRAY_Dhansa Bus Stand to Dwarka",
+      "GRAY_Dwarka to Dhansa Bus Stand"
+    ]
+  },
+  {
+    "id": "241",
+    "name": "Dhansa Bus Stand",
+    "lat": 28.611858,
+    "lng": 76.975426,
+    "lines": [
+      "GRAY_Dhansa Bus Stand to Dwarka",
+      "GRAY_Dwarka to Dhansa Bus Stand"
+    ]
+  },
+  {
+    "id": "500",
+    "name": "Noida Sector 51",
+    "lat": 28.585548,
+    "lng": 77.375374,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "501",
+    "name": "Noida Sector 50",
+    "lat": 28.574547,
+    "lng": 77.378357,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "502",
+    "name": "Noida Sector 76",
+    "lat": 28.565445,
+    "lng": 77.37973,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "503",
+    "name": "Noida Sector 101",
+    "lat": 28.556065,
+    "lng": 77.385056,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "504",
+    "name": "Noida Sector 81",
+    "lat": 28.549259,
+    "lng": 77.390099,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "505",
+    "name": "NSEZ",
+    "lat": 28.532248,
+    "lng": 77.394951,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "506",
+    "name": "Noida Sector 83",
+    "lat": 28.522284,
+    "lng": 77.396477,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "507",
+    "name": "Noida Sector 137",
+    "lat": 28.510817,
+    "lng": 77.403625,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Noida Sector 51 to Noida Sector 142"
+    ]
+  },
+  {
+    "id": "508",
+    "name": "Noida Sector 142",
+    "lat": 28.498999,
+    "lng": 77.412567,
+    "lines": [
+      "AQUA_Noida Sector 142 to Noida Sector 51",
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 51 to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "509",
+    "name": "Noida Sector 143",
+    "lat": 28.494246,
+    "lng": 77.422318,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "510",
+    "name": "Noida Sector 144",
+    "lat": 28.486376,
+    "lng": 77.432968,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "511",
+    "name": "Noida Sector 145",
+    "lat": 28.47913,
+    "lng": 77.442307,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "512",
+    "name": "Noida Sector 146",
+    "lat": 28.468822,
+    "lng": 77.455101,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "513",
+    "name": "Noida Sector 147",
+    "lat": 28.4594,
+    "lng": 77.465965,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "514",
+    "name": "Noida Sector 148",
+    "lat": 28.448021,
+    "lng": 77.476692,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "515",
+    "name": "Knowledge Park",
+    "lat": 28.456865,
+    "lng": 77.500298,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "516",
+    "name": "Pari Chowk",
+    "lat": 28.463331,
+    "lng": 77.508308,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "517",
+    "name": "Alpha 1",
+    "lat": 28.470879,
+    "lng": 77.512718,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "518",
+    "name": "Delta 1",
+    "lat": 28.478374,
+    "lng": 77.525581,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "519",
+    "name": "GNIDA Office",
+    "lat": 28.484531,
+    "lng": 77.536621,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  },
+  {
+    "id": "520",
+    "name": "Depot Station",
+    "lat": 28.488651,
+    "lng": 77.544075,
+    "lines": [
+      "AQUA_Depot Station to Noida Sector 142",
+      "AQUA_Noida Sector 142 to Depot Station"
+    ]
+  }
+]
